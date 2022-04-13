@@ -1,5 +1,6 @@
 # Sass
 Learning about Sass
 
-<h2>Variables</h2>
-<h2>Mixin</h2>
+<h4>-Variables</h4>
+<h4>-Mixin</h4>
+<h4>Nesting</h4>
